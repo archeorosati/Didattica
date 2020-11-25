@@ -80,8 +80,8 @@
     </center>
 </figure>
 
-    <a name="inizio"><h1>Costruire un network per PAThs</h1></a>
-    <h3>Paolo Rosati, paolo.rosati@uniroma1.it</h3>
+##Costruire un network per PAThs
+###Paolo Rosati, paolo.rosati@uniroma1.it
 <br>
 <p>La costruzione di un network viario per PAThs ha richiesto diversi punti e passaggi tecnici al fine di giungere al risultato finale.
 L'operazione di digitalizzazione è stata compiuta tenendo a mente due cose: 
